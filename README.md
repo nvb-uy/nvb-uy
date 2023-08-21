@@ -1,3 +1,3 @@
 <div align="center">
-![Metrics](https://raw.githubusercontent.com/nvb-uy/nvb-uy/main/github-metrics.svg)
+  <img title="a title" alt="Alt text" src="github-metrics.svg">
 </div>
