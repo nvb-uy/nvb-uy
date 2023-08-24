@@ -24,5 +24,5 @@
   </table>
 </div>
 <div align="center">
-  <img title="Metrics" alt="Metrics" src="github-metrics.svg">
+  <img width=650 title="Metrics" alt="Metrics" src="github-metrics.svg">
 </div>
