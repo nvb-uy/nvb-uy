@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    132k added, 62.4k removed
+                                    24.7k added, 4.73k removed
                                 </div>
                             </section>
                             <section>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="280.51679952459335" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="280.51679952459335" y="0" width="113.1920995011836" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="393.70889902577693" y="0" width="38.80471548526675" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="432.51361451104367" y="0" width="22.453757716453172" height="8" fill="#5686a5"/>
-                    <rect mask="url(#languages-bar)" x="454.96737222749687" y="0" width="2.6664960409407925" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="457.63386826843765" y="0" width="1.0272533553094578" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="458.66112162374714" y="0" width="0.7657958158291714" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="459.4269174395763" y="0" width="0.5730825604237147" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="280.56872281111293" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="280.56872281111293" y="0" width="113.21305120826182" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="393.7817740193748" y="0" width="38.72675279827038" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="432.50852681764513" y="0" width="22.457913877144183" height="8" fill="#5686a5"/>
+                    <rect mask="url(#languages-bar)" x="454.96644069478936" y="0" width="2.6669896058116733" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="457.63343030060105" y="0" width="1.0274434985393333" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="458.6608737991404" y="0" width="0.7659375636162138" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="459.42681136275655" y="0" width="0.5731886372434798" height="8" fill="#DA3434"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -301,7 +301,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Oct 2023, 11:18:09 (timezone America/Argentina/Buenos_Aires) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Oct 2023, 12:19:54 (timezone America/Argentina/Buenos_Aires) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
