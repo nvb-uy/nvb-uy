@@ -1,7 +1,6 @@
-<p align="center">
-  <img title="Welcome!" alt="Welcome to my profile!" width=820 src="https://cdn.discordapp.com/attachments/1010666451876724806/1144395375638233218/welcome.png">
-</p>
-<h1></h1>
+<h1><p align="center">
+  Welcome to my Profile <3
+</p><h2>
 <div align="center">
   <table>
     <tr>
@@ -12,7 +11,7 @@
       </td>
       <td>
         <a href="https://legacy.curseforge.com/members/elocindev/projects">
-          <img alt="Downloads" src="https://img.shields.io/static/v1?label=ElocinDev&message=OVER%2015M%20DOWNLOADS&color=393939&labelColor=402882&style=for-the-badge&logo=CurseForge&logoColor=white">
+          <img alt="Downloads" src="https://img.shields.io/static/v1?label=ElocinDev&message=OVER%20200%20MILLION%20DOWNLOADS&color=393939&labelColor=402882&style=for-the-badge&logo=CurseForge&logoColor=white">
         </a>
       </td>
       <td>
