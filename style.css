@@ -1,0 +1,4 @@
+img[src*='#metrics'] {
+  float: center;
+  width: 550px;
+}
