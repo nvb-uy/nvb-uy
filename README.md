@@ -20,4 +20,4 @@
     </tr>
   </table>
 </div>
-[Metrics >](github-metrics.svg)<img width=550 title="Metrics">
+[Metrics](github-metrics.svg)<img width=550 title="Metrics">
