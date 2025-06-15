@@ -5,9 +5,7 @@
   <table>
     <tr>
       <td>
-        <a href="https://legacy.curseforge.com/members/elocindev/projects">
-          <img alt="My Projects" src="https://img.shields.io/static/v1?label=&message=My Projects&color=393939&labelColor=402882&style=for-the-badge&logo=Github&logoColor=white">
-        </a>
+        [![My Projects](https://img.shields.io/static/v1?label=&message=My Projects&color=393939&labelColor=402882&style=for-the-badge&logo=Github&logoColor=white)](https://legacy.curseforge.com/members/elocindev/projects)
       </td>
       <td>
         <a href="https://legacy.curseforge.com/members/elocindev/projects">
