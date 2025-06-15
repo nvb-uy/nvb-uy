@@ -1,12 +1,12 @@
-<h1><p align="center">
-  Welcome to my Profile <3
-</p><h2>
+| [![My Projects](https://img.shields.io/static/v1?label=&message=My Projects&color=393939&labelColor=402882&style=for-the-badge&logo=Github&logoColor=white)](https://legacy.curseforge.com/members/elocindev/projects) | | |
+| -- | -- | -- |
+
+
+
+# Welcome to my Profile <3
 <div align="center">
   <table>
     <tr>
-      <td>
-        [![My Projects](https://img.shields.io/static/v1?label=&message=My Projects&color=393939&labelColor=402882&style=for-the-badge&logo=Github&logoColor=white)](https://legacy.curseforge.com/members/elocindev/projects)
-      </td>
       <td>
         <a href="https://legacy.curseforge.com/members/elocindev/projects">
           <img alt="Downloads" src="https://img.shields.io/static/v1?label=ElocinDev&message=OVER%20200%20MILLION%20DOWNLOADS&color=393939&labelColor=402882&style=for-the-badge&logo=CurseForge&logoColor=white">
@@ -20,6 +20,4 @@
     </tr>
   </table>
 </div>
-<div align="center">
-  <img width=550 title="Metrics" alt="Metrics" src="github-metrics.svg">
-</div>
+[Metrics >](github-metrics.svg)<img width=550 title="Metrics">
